@@ -8,3 +8,6 @@ node_modules
 !.env.example
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+/src/lib/firebase.ts
+/src/lib/server/admin.ts
+service-account.json
