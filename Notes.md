@@ -56,3 +56,10 @@
 - Create `./src/lib/components/AnimatedRoute.svelte`
 - Import `AnimatedRoute` component to `src/routes/login/+layout.svelte`
 - Apply `AnimatedRoute` to `<main>`
+- Oauth stuff
+- Svelte store thing
+- Make AuthCheck component
+- Firebase: Create collections
+- Firebase: Setup security
+- Code atomic writing for users/usernames
+- Add stylized validation
