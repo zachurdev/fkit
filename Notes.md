@@ -63,3 +63,5 @@
 - Firebase: Setup security
 - Code atomic writing for users/usernames
 - Add stylized validation
+- Create [docStore, UserData, userData] in `/src/lib/firebase.ts`
+- Add to `/src/routes/login/username/+page.svelte` using [docStore, UserData, userData]
